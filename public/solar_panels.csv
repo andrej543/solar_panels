@@ -1,0 +1,116 @@
+Address,Number of solar panels,Confidence level (1-10),Annual output (kWh),kWp,kWh/kWp/year_NL,Availability factor (%),Avg solar panel output (Wp)
+"Sandersstraat 3, 3784 WR Terschuur, Netherlands",6,10,2261,2.61,875,99%,435
+"Sandersstraat 5, 3784 WR Terschuur, Netherlands",16,8,6029,6.96,875,99%,435
+"Sandersstraat 7, 3784 WR Terschuur, Netherlands",16,8,6029,6.96,875,99%,435
+"Eendrachtstraat 27, 3784 KA Zwartebroek, Netherlands",16,10,6029,6.96,875,99%,435
+"Eendrachtstraat 6b, 3784 KB Terschuur, Netherlands",24,5,9044,10.44,875,99%,435
+"Sandersstraat 34, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 32, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 30, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 28, 3784 WR Terschuur, Netherlands",18,8,6783,7.83,875,99%,435
+"Sandersstraat 26, 3784 WR Terschuur, Netherlands",0,9,0,0,875,99%,435
+"Sandersstraat 24, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 22, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 20, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 18, 3784 WR Terschuur, Netherlands",20,7,7536,8.7,875,99%,435
+"Sandersstraat 16, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 14, 3784 WR Terschuur, Netherlands",3,8,1130,1.305,875,99%,435
+"Sandersstraat 12, 3784 WR Terschuur, Netherlands",7,9,2638,3.045,875,99%,435
+"Sandersstraat 10, 3784 WR Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Sandersstraat 8, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 6, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 4, 3784 WR Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Sandersstraat 2, 3784 WR Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Broekhuizenstraat 6, 3784 WT Terschuur, Netherlands",18,10,6783,7.83,875,99%,435
+"Broekhuizenstraat 4, 3784 WT Terschuur, Netherlands",0,9,0,0,875,99%,435
+"Broekhuizenstraat 2, 3784 WT Terschuur, Netherlands",0,9,0,0,875,99%,435
+"Eendrachtstraat 27, 3784 KA Terschuur, Netherlands",0,9,0,0,875,99%,435
+"Eendrachtstraat 25, 3784 KA Terschuur, Netherlands",20,6,7536,8.7,875,99%,435
+"Eendrachtstraat 23, 3784 KA Terschuur, Netherlands",14,8,5275,6.09,875,99%,435
+"Eendrachtstraat 21, 3784 KA Terschuur, Netherlands",28,6,10551,12.18,875,99%,435
+"Eendrachtstraat 19, 3784 KA Terschuur, Netherlands",13,8,4899,5.655,875,99%,435
+"Eendrachtstraat 17, 3784 KA Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Eendrachtstraat 15, 3784 KA Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Eendrachtstraat 13, 3784 KA Terschuur, Netherlands",20,9,7536,8.7,875,99%,435
+"Eendrachtstraat 11, 3784 KA Terschuur, Netherlands",0,6,0,0,875,99%,435
+"Eendrachtstraat 9, 3784 KA Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Hendrik van de Craatsstraat 21, 3784 KH Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Hendrik van de Craatsstraat 23, 3784 KH Terschuur, Netherlands",19,9,7160,8.265,875,99%,435
+"Hendrik van de Craatsstraat 25, 3784 KH Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Hendrik van de Craatsstraat 27, 3784 KH Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 29, 3784 KH Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Hendrik van de Craatsstraat 31, 3784 KH Terschuur, Netherlands",14,7,5275,6.09,875,99%,435
+"Hendrik van de Craatsstraat 33, 3784 KH Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 35, 3784 KH Terschuur, Netherlands",15,8,5652,6.525,875,99%,435
+"Hendrik van de Craatsstraat 37, 3784 KH Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 39, 3784 KH Terschuur, Netherlands",10,10,3768,4.35,875,99%,435
+"Hendrik van de Craatsstraat 19, 3784 KH Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Hendrik van de Craatsstraat 17, 3784 KH Terschuur, Netherlands",17,10,6406,7.395,875,99%,435
+"Hendrik van de Craatsstraat 15, 3784 KH Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 13, 3784 KH Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 11, 3784 KH Terschuur, Netherlands",9,10,3391,3.915,875,99%,435
+"Hendrik van de Craatsstraat 9, 3784 KH Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 7, 3784 KH Terschuur, Netherlands",19,9,7160,8.265,875,99%,435
+"Hendrik van de Craatsstraat 5, 3784 KH Terschuur, Netherlands",13,9,4899,5.655,875,99%,435
+"Hendrik van de Craatsstraat 3, 3784 KH Terschuur, Netherlands",22,10,8290,9.57,875,99%,435
+"Hendrik van de Craatsstraat 1, 3784 KH Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Reijer Bronsstraat 25, 3784 KJ Terschuur, Netherlands",14,10,5275,6.09,875,99%,435
+"Hendrik van de Craatsstraat 56, 3784 KG Terschuur, Netherlands",10,7,3768,4.35,875,99%,435
+"Hendrik van de Craatsstraat 54, 3784 KG Terschuur, Netherlands",0,9,0,0,875,99%,435
+"Hendrik van de Craatsstraat 52, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 50, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 48, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 46, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 44, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 42, 3784 KG Terschuur, Netherlands",2,9,754,0.87,875,99%,435
+"Hendrik van de Craatsstraat 40, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Reijer Bronsstraat 1, 3784 KJ Terschuur, Netherlands",5,6,1884,2.175,875,99%,435
+"Reijer Bronsstraat 3, 3784 KJ Terschuur, Netherlands",0,6,0,0,875,99%,435
+"Reijer Bronsstraat 5, 3784 KJ Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Reijer Bronsstraat 23, 3784 KJ Terschuur, Netherlands",13,7,4899,5.655,875,99%,435
+"Reijer Bronsstraat 21, 3784 KJ Terschuur, Netherlands",11,9,4145,4.785,875,99%,435
+"Reijer Bronsstraat 19, 3784 KJ Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Reijer Bronsstraat 17, 3784 KJ Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Reijer Bronsstraat 15, 3784 KJ Terschuur, Netherlands",0,9,0,0,875,99%,435
+"Reijer Bronsstraat 13, 3784 KJ Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Reijer Bronsstraat 11, 3784 KJ Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Reijer Bronsstraat 9, 3784 KJ Terschuur, Netherlands",20,8,7536,8.7,875,99%,435
+"Reijer Bronsstraat 7, 3784 KJ Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Reijer Bronsstraat 36, 3784 KK Terschuur, Netherlands",15,8,5652,6.525,875,99%,435
+"Reijer Bronsstraat 34, 3784 KK Terschuur, Netherlands",12,10,4522,5.22,875,99%,435
+"Reijer Bronsstraat 32, 3784 KK Terschuur, Netherlands",10,10,3768,4.35,875,99%,435
+"Reijer Bronsstraat 30, 3784 KK Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Reijer Bronsstraat 28, 3784 KK Terschuur, Netherlands",18,8,6783,7.83,875,99%,435
+"Reijer Bronsstraat 26, 3784 KK Terschuur, Netherlands",12,6,4522,5.22,875,99%,435
+"Reijer Bronsstraat 24, 3784 KK Terschuur, Netherlands",0,6,0,0,875,99%,435
+"Reijer Bronsstraat 22, 3784 KK Terschuur, Netherlands",6,7,2261,2.61,875,99%,435
+"Reijer Bronsstraat 20, 3784 KK Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Reijer Bronsstraat 18, 3784 KK Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Reijer Bronsstraat 16, 3784 KK Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Reijer Bronsstraat 14, 3784 KK Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Reijer Bronsstraat 8, 3784 KK Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Reijer Bronsstraat 6, 3784 KK Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Reijer Bronsstraat 4, 3784 KK Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Reijer Bronsstraat 2, 3784 KK Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 38, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 36, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 34, 3784 KG Terschuur, Netherlands",8,9,3015,3.48,875,99%,435
+"Hendrik van de Craatsstraat 32, 3784 KG Terschuur, Netherlands",24,8,9044,10.44,875,99%,435
+"Hendrik van de Craatsstraat 30, 3784 KG Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 28, 3784 KE Terschuur, Netherlands",15,8,5652,6.525,875,99%,435
+"Hendrik van de Craatsstraat 26, 3784 KE Terschuur, Netherlands",19,7,7160,8.265,875,99%,435
+"Hendrik van de Craatsstraat 24, 3784 KE Terschuur, Netherlands",23,9,8667,10.005,875,99%,435
+"Hendrik van de Craatsstraat 22, 3784 KE Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 20, 3784 KE Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 18, 3784 KE Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 16, 3784 KE Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 14, 3784 KE Terschuur, Netherlands",0,10,0,0,875,99%,435
+"Hendrik van de Craatsstraat 12, 3784 KE Terschuur, Netherlands",38,8,14319,16.53,875,99%,435
+"Hendrik van de Craatsstraat 10, 3784 KE Terschuur, Netherlands",13,10,4899,5.655,875,99%,435
+"Hendrik van de Craatsstraat 8, 3784 KE Terschuur, Netherlands",5,10,1884,2.175,875,99%,435
+"Hendrik van de Craatsstraat 6, 3784 KE Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Hendrik van de Craatsstraat 4, 3784 KE Terschuur, Netherlands",0,8,0,0,875,99%,435
+"Hendrik van de Craatsstraat 2, 3784 KE Terschuur, Netherlands",11,7,4145,4.785,875,99%,435
+"Sandersstraat 1, 3784 WR Terschuur, Netherlands",0,7,0,0,875,99%,435
+"Broekhuizenstraat 10, 3784 WT Terschuur, Netherlands",0,7,0,0,875,99%,435
+"van de Bleekstraat 26, 3784 WZ Terschuur, Netherlands",0,9,0,0,875,99%,435
