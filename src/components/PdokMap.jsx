@@ -27,7 +27,7 @@ const PdokMap = ({ address, coordinates }) => {
     if (!coordinates) return;
 
     const { lat, lon } = coordinates;
-    
+
     // Zoom level: higher for searched addresses (closer view), lower for default
     const zoomLevel = address ? 19 : 15; // Zoom in closer when address is searched
 

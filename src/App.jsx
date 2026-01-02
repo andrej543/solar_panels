@@ -247,7 +247,7 @@ function App() {
         <div className="header-content">
           <div className="header-main">
             <h1 className="app-title">Solar Panel Finder</h1>
-            <p className="app-subtitle">Search for addresses and view solar panel data</p>
+          <p className="app-subtitle">Search for addresses and view solar panel data</p>
           </div>
           <div className="header-logo">
             <a href="/" className="logo-link">Spenat Labs</a>
@@ -335,8 +335,14 @@ function App() {
 
       <footer className="app-footer">
         <div className="footer-content">
-          <p className="disclaimer">
+          <p className="footer-text">
             Estimates are approximate and based on aerial/satellite imagery and other third-party information. No legal responsibility is assumed for accuracy or timeliness. Copyright © Spenat Labs Inc. All rights reserved.
+          </p>
+          <p className="footer-text">
+            Data also available via API.
+          </p>
+          <p className="footer-text">
+            Questions about the Solar Panel Finder project? Contact <a href="mailto:andrej@spenatlabs.com" className="footer-link">andrej@spenatlabs.com</a>
           </p>
         </div>
       </footer>
